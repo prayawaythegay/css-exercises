@@ -1,9 +1,10 @@
-p {
+.paragraph {
     background-color: #fab4c0;
     font-size: 20px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.paragraph {
+.p-cooler {
     font-size: 24px;
 }
 
