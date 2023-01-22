@@ -1,8 +1,19 @@
 p {
     background-color: #fab4c0;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .paragraph {
-    font-size: 35px;
+    font-size: 24px;
+}
+
+#first {
+    font-size: 36px;
+    color: blue;
+}
+
+#second {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
